@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce1d0483-2f2b-4a7d-912a-aee3413d7812" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/48da9109-8f1e-448c-a616-22bfe944fb79.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/48da9109-8f1e-448c-a616-22bfe944fb79.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/48da9109-8f1e-448c-a616-22bfe944fb79/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/48da9109-8f1e-448c-a616-22bfe944fb79/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inforce_task/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inforce_task/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inforce_task/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inforce_task/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +134,8 @@
       <workItem from="1663272827167" duration="2028000" />
       <workItem from="1663274918010" duration="19976000" />
       <workItem from="1663341641500" duration="97000" />
-      <workItem from="1663341789404" duration="5656000" />
+      <workItem from="1663341789404" duration="5942000" />
+      <workItem from="1663347793374" duration="666000" />
     </task>
     <servers />
   </component>
