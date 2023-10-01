@@ -1,4 +1,4 @@
-Hello,
+Hello, this is my job offer exam for 'junior python dev' position.
 ---
 firstly you need to write command
 > pip install -r requrements.txt
